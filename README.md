@@ -1,3 +1,3 @@
-## PRACTICA DE GIT
+## REPOSITORIO DE PRACTICA DE GIT
 
 Práctica en la cual se creo una rama llamada development y vamos a subir los cambios.
